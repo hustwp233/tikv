@@ -35,7 +35,7 @@ lazy_static = "1.4.0"
 time = "0.1"
 
 [dependencies.rocksdb]
-git = "https://github.com/tikv/rust-rocksdb.git"
+git = "https://github.com/hustwp233/rust-rocksdb.git"
 package = "rocksdb"
 features = ["encryption"]
 
